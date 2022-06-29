@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/kotra"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="300dp"
+            android:textSize="30dp"
+            android:text="오늘의 색깔은?    "
+            android:textColor="@color/black"
+            ></TextView>
+
+        <TextView
+            android:id="@+id/color"
+            android:textSize="35dp"
+            android:layout_marginTop="150dp"
+            android:fontFamily="@font/kotra"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
+
+
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:id="@+id/grape_image"
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+        android:layout_height="200dp">
+
+    </ImageView>
+
+
+
+</LinearLayout>
