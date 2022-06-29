@@ -31,7 +31,6 @@
                 android:src="@drawable/grape_tired"
                 android:layout_gravity="center"
                 android:padding="5dp"
-
                 android:layout_width="80dp"
                 android:layout_height="80dp"/>
 
@@ -39,7 +38,7 @@
 
                 android:layout_gravity="center"
                 android:layout_width="250dp"
-                android:layout_height="100dp">
+                android:layout_height="180dp">
 
                 <TextView
                     android:id="@+id/mood_mon_text"
@@ -48,8 +47,8 @@
                     android:textSize="17dp"
                     android:background="@drawable/bubble_1"
                     android:padding="20dp"
-                    android:gravity="center"
                     android:layout_gravity="center"
+                    android:gravity="center"
                     android:layout_marginLeft="30dp"
                     android:layout_width="200dp"
                     android:layout_height="wrap_content"
@@ -65,7 +64,7 @@
 
             <TextView
                 android:text="화"
-                android:textSize="40dp"
+                android:textSize="36dp"
                 android:textColor="#000000"
                 android:layout_gravity="center"
                 android:padding="5dp"
@@ -75,17 +74,16 @@
 
             <ImageView
                 android:id="@+id/mood_tue"
-                android:layout_gravity="center"
-                android:padding="5dp"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_marginLeft="-5dp"
+                android:layout_gravity="center"
+                android:padding="5dp"
                 android:src="@drawable/grape_tired" />
 
             <LinearLayout
                 android:layout_gravity="center"
                 android:layout_width="250dp"
-                android:layout_height="100dp">
+                android:layout_height="180dp">
 
                 <TextView
                     android:id="@+id/mood_tue_text"
@@ -96,8 +94,8 @@
                     android:padding="20dp"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:layout_marginLeft="28dp"
-                    android:layout_width="205dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_width="200dp"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/kotra"/>
             </LinearLayout>
@@ -111,7 +109,7 @@
 
             <TextView
                 android:text="수"
-                android:textSize="40dp"
+                android:textSize="44dp"
                 android:textColor="#000000"
                 android:layout_gravity="center"
                 android:padding="5dp"
@@ -142,7 +140,7 @@
                     android:layout_gravity="center"
                     android:gravity="center"
                     android:layout_marginLeft="30dp"
-                    android:layout_width="wrap_content"
+                    android:layout_width="200dp"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/kotra"/>
             </LinearLayout>
@@ -187,7 +185,7 @@
                     android:layout_gravity="center"
                     android:gravity="center"
                     android:layout_marginLeft="30dp"
-                    android:layout_width="wrap_content"
+                    android:layout_width="200dp"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/kotra"/>
             </LinearLayout>
@@ -223,6 +221,7 @@
                 android:layout_height="180dp">
 
                 <TextView
+                    android:id="@+id/mood_fri_text"
                     android:text="오늘 하루 너무 피곤해.."
                     android:textColor="#000000"
                     android:textSize="17dp"
@@ -231,7 +230,7 @@
                     android:layout_gravity="center"
                     android:gravity="center"
                     android:layout_marginLeft="30dp"
-                    android:layout_width="wrap_content"
+                    android:layout_width="200dp"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/kotra"/>
             </LinearLayout>
@@ -267,6 +266,7 @@
                 android:layout_height="180dp">
 
                 <TextView
+                    android:id="@+id/mood_sat_text"
                     android:text="오늘 하루 너무 피곤해.."
                     android:textColor="#000000"
                     android:textSize="17dp"
@@ -275,7 +275,7 @@
                     android:layout_gravity="center"
                     android:gravity="center"
                     android:layout_marginLeft="30dp"
-                    android:layout_width="wrap_content"
+                    android:layout_width="200dp"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/kotra"/>
             </LinearLayout>
@@ -289,7 +289,7 @@
 
             <TextView
                 android:text="일"
-                android:textSize="40dp"
+                android:textSize="37dp"
                 android:textColor="#000000"
                 android:layout_gravity="center"
                 android:padding="5dp"
@@ -311,6 +311,7 @@
                 android:layout_height="180dp">
 
                 <TextView
+                    android:id="@+id/mood_sun_text"
                     android:text="오늘 하루 너무 피곤해.."
                     android:textColor="#000000"
                     android:textSize="17dp"
@@ -319,11 +320,10 @@
                     android:layout_gravity="center"
                     android:gravity="center"
                     android:layout_marginLeft="30dp"
-                    android:layout_width="wrap_content"
+                    android:layout_width="200dp"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/kotra"/>
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
-
 </FrameLayout>
