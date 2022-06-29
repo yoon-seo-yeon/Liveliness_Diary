@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/121506392382a9231694e948c53ae69d/transformed/jetified-tedpermission-2.3.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/121506392382a9231694e948c53ae69d/transformed/jetified-tedpermission-2.3.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/121506392382a9231694e948c53ae69d/transformed/jetified-tedpermission-2.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/40188e1403c88ae204a343e83763652d/transformed/jetified-tedpermission-2.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/40188e1403c88ae204a343e83763652d/transformed/jetified-tedpermission-2.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/40188e1403c88ae204a343e83763652d/transformed/jetified-tedpermission-2.3.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.ParkSangGwon/tedpermission/2.3.0/1200d873faaef0bc9909d4f53df64103c555d3bc/tedpermission-2.3.0-javadoc.jar!/" />

@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/903727826e9cf9e8a8df4e4dc2a900c8/transformed/jetified-android-crop-1.0.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/903727826e9cf9e8a8df4e4dc2a900c8/transformed/jetified-android-crop-1.0.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/903727826e9cf9e8a8df4e4dc2a900c8/transformed/jetified-android-crop-1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9dba1a3dcf4fa1556bcf33c54f255902/transformed/jetified-android-crop-1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9dba1a3dcf4fa1556bcf33c54f255902/transformed/jetified-android-crop-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9dba1a3dcf4fa1556bcf33c54f255902/transformed/jetified-android-crop-1.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
