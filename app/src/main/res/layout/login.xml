@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--로그인 xml 페이지-->
+    <TextView
+        android:layout_marginTop="200dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Login"
+        android:textColor="#000"
+        android:textSize="40dp"
+        android:fontFamily="@font/kotra"/>
+
+
+    <EditText
+        android:id="@+id/loginId"
+        android:layout_width="290dp"
+        android:layout_height="84dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="#D7ECFF"
+        android:hint="아이디"
+        android:inputType="textEmailAddress"
+        android:fontFamily="@font/kotra"/>
+
+    <EditText
+        android:id="@+id/loginPass"
+        android:layout_width="290dp"
+        android:layout_height="84dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#D7ECFF"
+        android:hint="비밀번호"
+        android:inputType="textPassword"
+        android:fontFamily="@font/kotra"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/loginBtn"
+        android:layout_width="275dp"
+        android:layout_height="55dp"
+        android:background="@drawable/btn_color"
+        android:text="로그인"
+        android:textColor="#000"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/kotra"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/joinBtn"
+        android:layout_width="275dp"
+        android:layout_height="55dp"
+        android:background="@drawable/btn_color"
+        android:text="회원가입"
+        android:textColor="#000"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/kotra"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="아이디가 없다면 회원가입!"
+        android:textSize="15dp"
+        android:textColor="#CACACA"
+        android:fontFamily="@font/kotra">
+
+    </TextView>
+
+
+</LinearLayout>
