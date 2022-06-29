@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable-v24/btn2_color.xml" value="0.1425" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable-v24/btn_color.xml" value="0.1425" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable-v24/mood_4.xml" value="0.1115" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/btn2_color.xml" value="0.22" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/bubble_1.xml" value="0.1895" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/bubble_2.xml" value="0.1895" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/bubble_3.xml" value="0.251" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/home.xml" value="0.1285" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_1.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_10.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_11.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_12.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_2.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_3.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_4.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_5.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_6.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_7.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_8.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/mood_9.xml" value="0.141" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/drawable/stats.xml" value="0.1285" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/font/font.xml" value="0.2296875" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/bottom_menu.xml" value="0.12092391304347826" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/diary_add.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/diary_click.xml" value="0.22" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/diary_item.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/diary_main.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/diary_write.xml" value="0.15904232578024796" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/diarywrite.xml" value="0.14666666666666667" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/diarywrtie.xml" value="0.14666666666666667" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/fragment_diary_activity.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/fragment_home_activity.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/fragment_mood_stats.xml" value="0.1766304347826087" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/fragment_phrase_activity.xml" value="0.17447916666666666" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/fragment_stats_activity.xml" value="0.22" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/fragment_user_activity.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/home.xml" value="0.22" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/login.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/logo.xml" value="0.18115942028985507" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/mood_color.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/mood_color_change.xml" value="0.1585144927536232" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/mood_grape.xml" value="0.14666666666666667" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/mood_grape_change.xml" value="0.1766304347826087" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/mood_stats.xml" value="0.12997007268063274" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/replace_settings.xml" value="0.17447916666666666" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/setup.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/sign.xml" value="0.25" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/layout/test.xml" value="0.16717325227963525" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/menu/bottom_menu.xml" value="0.1111111111111111" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/mipmap-anydpi-v26/Diary_logo.xml" value="0.2125" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/mipmap-anydpi-v26/diarylogo.xml" value="0.1965" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.2125" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/mipmap-anydpi-v26/logo_round.xml" value="0.2125" />
+        <entry key="..\:/CookAndroid/AndProject/Liveliness_Diary/app/src/main/res/xml/file_paths.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
