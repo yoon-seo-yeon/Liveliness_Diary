@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    /* 오늘의 기분 두 가지색으로 표현 : 폰트 색깔 */
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:visibility="invisible"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="기분의 변화가 있나보네?"
+        android:textSize="25dp"
+        android:fontFamily="@font/kotra"
+        android:textColor="#4C4C4C"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="32dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/text"
+        android:text="두 가지 색으로 표현해줘!"
+        android:textSize="25dp"
+        android:fontFamily="@font/kotra"
+        android:textColor="#4C4C4C"
+        android:layout_marginLeft="32dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TableLayout
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow>
+            <android.widget.Button
+                android:id="@+id/mood_1"
+                android:background="@drawable/mood_1"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+
+            <android.widget.Button
+                android:id="@+id/mood_2"
+                android:background="@drawable/mood_2"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+
+            <android.widget.Button
+                android:id="@+id/mood_3"
+                android:background="@drawable/mood_3"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+        </TableRow>
+
+        <TableRow>
+            <android.widget.Button
+                android:id="@+id/mood_4"
+                android:background="@drawable/mood_4"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+
+            <android.widget.Button
+                android:id="@+id/mood_5"
+                android:background="@drawable/mood_5"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+
+            <android.widget.Button
+                android:id="@+id/mood_6"
+                android:background="@drawable/mood_6"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+        </TableRow>
+
+        <TableRow>
+            <android.widget.Button
+                android:id="@+id/mood_7"
+                android:background="@drawable/mood_7"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+
+            <android.widget.Button
+                android:id="@+id/mood_8"
+                android:background="@drawable/mood_8"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+
+            <android.widget.Button
+                android:id="@+id/mood_9"
+                android:background="@drawable/mood_9"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+        </TableRow>
+
+        <TableRow>
+            <android.widget.Button
+                android:id="@+id/mood_10"
+                android:background="@drawable/mood_10"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+
+            <android.widget.Button
+                android:id="@+id/mood_11"
+                android:background="@drawable/mood_11"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+
+            <android.widget.Button
+                android:id="@+id/mood_12"
+                android:background="@drawable/mood_12"
+                android:layout_margin="30dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"/>
+        </TableRow>
+    </TableLayout>
+
+<!--    <android.widget.Button-->
+<!--        android:id="@+id/btn_moodcolor"-->
+<!--        android:text="완료"-->
+<!--        android:background="@drawable/rectangle"-->
+<!--        android:layout_marginTop="70dp"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:layout_width="330dp"-->
+<!--        android:layout_height="50dp"/>-->
+</LinearLayout>
